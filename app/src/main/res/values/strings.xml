@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FormularioContactos</string>
+
+    <string name="HintName">Nombre</string>
+    <string name="HintDate">Fecha</string>
+    <string name="HintTelephone">Telefono</string>
+    <string name="HintMail">Mail</string>
+    <string name="HintDescription">Descripción</string>
+    <string name="Date_ini">Fecha</string>
+
+    <string name="DescriptionConfirm">Descripción</string>
+    <string name="TitleConfirm">Confirmar Datos</string>
+    <string name="Date">Fecha</string>
+    <string name="Next">Siguiente</string>
+    <string name="Editf">Editar datos</string>
+    <string name="NameComfirm">Nombre</string>
+    <string name="DateConfirm">Fecha de nacimiento</string>
+    <string name="TelephoneConfirm">Teléfono</string>
+    <string name="MailConfirm">Correo electrónico</string>
+
+    <string name="pdata">datos</string>
+</resources>
